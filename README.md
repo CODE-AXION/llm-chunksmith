@@ -4,7 +4,7 @@ Intelligent Document Chunker. Automatically detects semantic boundaries in Markd
 COMING SOON (This will be paid script but dont worry it will be dirt cheap and pretty affordable !!! )...
 
 OUTPUT:
-```
+```json
 [
   {
     "metadata": {
